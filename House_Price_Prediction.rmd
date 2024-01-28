@@ -1,2 +1,0 @@
-library(ggplot2)
-data <- read.csv("realtor-data.zip.csv")
